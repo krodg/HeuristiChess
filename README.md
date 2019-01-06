@@ -15,3 +15,6 @@ based on the scores of each state.
 All of this allows for a time-efficient search of the state-space to generate the best move that the AI can take in any one turn.
 This AI subcomponent also features concurrent processing, to allow for multi-threaded state-space generation - further increasing
 on the time efficiency of the program.
+
+
+For launchable file: run GAME/Heuristi-Chess.jar
